@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <array name="qt_libs">
+        <item>QtCore</item>
+        <item>QtGui</item>
+        <item>QtDeclarative</item>
+    </array>
+    <array name="bundled_libs">
+        <item>python2.6</item>
+        <item>shiboken-python2.6</item>
+        <item>pyside-python2.6</item>
+    </array>
+</resources>
